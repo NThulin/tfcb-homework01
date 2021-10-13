@@ -32,3 +32,8 @@
 
 Here is an image of a bug:
 
+![Casent Image](organized-project-directory/images/casent.   -  0191696 Camponotus darwinii .jpg)
+
+Here is an image of a cup:
+
+![Image of cup](https://image.similarpng.com/very-thumbnail/2020/08/Realistic-white-cup-on-transparent-background-PNG.png)
