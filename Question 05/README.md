@@ -33,7 +33,3 @@
 Here is an image of a bug *(from directory)*:
 
 ![Casent Image](https://github.com/NThulin/tfcb-homework01/blob/master/organized-project-directory/images/casent_Acanthomyrmex-ferox_0901788_p_1_high.jpg?raw=true)
-
-Here is an image of a cup *(from the internet)*:
-
-![Image of cup](https://image.similarpng.com/very-thumbnail/2020/08/Realistic-white-cup-on-transparent-background-PNG.png)
