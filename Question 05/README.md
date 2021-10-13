@@ -30,5 +30,5 @@
 
 ### *This is how to add an image*
 
-Here is an image of a bowl of soup:
+Here is an image of a bug:
 
