@@ -30,10 +30,10 @@
 
 ### *This is how to add an image*
 
-Here is an image of a bug:
+Here is an image of a bug *(from directory)*:
 
-![Casent Image](organized-project-directory/images/casent.   -  0191696 Camponotus darwinii .jpg)
+![Casent Image](/Users/nataliethulin/git/tfcb-homework01/Question 05/casent.png)
 
-Here is an image of a cup:
+Here is an image of a cup *(from the internet)*:
 
 ![Image of cup](https://image.similarpng.com/very-thumbnail/2020/08/Realistic-white-cup-on-transparent-background-PNG.png)
