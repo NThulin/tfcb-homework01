@@ -32,7 +32,7 @@
 
 Here is an image of a bug *(from directory)*:
 
-![Casent Image](/Users/nataliethulin/git/tfcb-homework01/Question 05/casent.png)
+![Casent Image](/tfcb-homework01/Question 05/casent.png)
 
 Here is an image of a cup *(from the internet)*:
 
